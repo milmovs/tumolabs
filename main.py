@@ -1,4 +1,5 @@
 import time
+
 enter = (input("Insert time to countdown (h:m:s): ").split(":"))
 h = int(enter[0])
 m = int(enter[1])
